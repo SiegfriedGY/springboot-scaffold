@@ -6,7 +6,7 @@ import org.springframework.stereotype.Service;
 public class GeneralService {
 
     static {
-        System.out.println("========================");
+        System.out.println("This is static block!!!!!========================");
     }
 
 }
